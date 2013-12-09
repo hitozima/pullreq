@@ -1,2 +1,2 @@
-Hello pullreq by secondbranch
+Hello pullreq by master
 =======
